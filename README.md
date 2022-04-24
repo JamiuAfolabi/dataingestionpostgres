@@ -1,1 +1,1 @@
-# afex_etl_script
+# etl_script
