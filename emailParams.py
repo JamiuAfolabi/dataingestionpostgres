@@ -1,8 +1,8 @@
-SEND_FROM='muhammedjamiuafolabi@gmail.com'
-SEND_TO=['afolabizerotohero@gmail.com',
-        'jmoh.tunde@gmail.com'
+SEND_FROM='@gmail.com'
+SEND_TO=['@gmail.com',
+        '@gmail.com'
         ]
-PASSWORD='everliveth95@'
+PASSWORD='password'
 
 HOST='smtp.gmail.com'
 PORT=587
